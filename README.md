@@ -1,7 +1,8 @@
 # Jogo da Memória 
 
 Este projeto foi feito em Aula do curso [B7Web](https://b7web.com.br).
-
+## Link da hospedagem: https://www.netlify.com/ 
+#Site: https://thg-memoria.netlify.app/
 ## Available Scripts
 
 In the project directory, you can run:
